@@ -1,0 +1,5 @@
+Name,Age,Weight
+Nick,28,78
+Sarah,16,60
+Tom,13,58
+Lily,50,68
